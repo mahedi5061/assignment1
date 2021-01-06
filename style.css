@@ -1,0 +1,196 @@
+
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+     
+}
+h1{
+    font-size: 45px;
+    font-weight: bold;
+     
+    
+}
+p{
+    text-align: justify;
+}
+.mhs-design{
+    color:chocolate;
+}
+.menu{
+    margin-left: 75%;
+    padding: 1%;
+    font-size: 20px;
+    
+}
+.menu a{
+    text-decoration: none;
+    margin-left: 3%;
+    color: black;
+}
+.first-container{
+    margin-top: 80px;
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+   
+    
+}
+ section{
+    
+ }
+.first-img img{
+    width: 25%;
+   margin-left: 15%;
+   margin-top: 100px;
+   border-radius:circle;
+}
+.top-banner{
+    background-image: url("banner/top-banner.png");
+    background-repeat:no-repeat ;
+    height: 700px;
+    
+  
+}
+ .first-container a{
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 0.2rem;
+    background-color:chocolate;
+    color: white;
+}
+.first-container p{
+    margin-bottom: 5%;
+}
+ 
+.sec-img img{
+    width:20%;
+    float: left;
+    margin-left:7%;
+
+   
+}
+.sec-container a img{
+    width:15px;
+    height:17px;
+   margin-right: 2%;
+}
+.sec-container{
+ text-align: justify;
+  width: 40%;
+ margin-left: 55%;
+ 
+   
+}
+.middle-banner{
+    
+     height: 500px;
+    
+}
+ 
+.sec-container a{
+    padding: 15px 20px;
+    text-decoration: none;
+    border-radius: 0.2rem;
+     
+    background-color:chocolate;
+    color: white;
+     
+}
+.sec-container p{
+    margin-bottom: 5%;
+}
+ .last-banner{
+     background-color:#F6F6F6;
+     padding-top: 2%;
+     
+     height:800px
+ }
+.last-banner h1{
+    
+    text-align: center;
+    font-size: 35px;
+     
+}
+ .shadow{
+    box-shadow: 10px 10px 40px gray;
+    height:50%;
+    border-radius:20px;
+    margin-top:50px;
+    width:23%;
+    text-align: justify;
+    float: left;
+    margin-left:6%;
+    padding:1%;
+    background-color: white;
+    
+}
+.shadow img{
+    height: 250px;
+    width:410px;
+    padding: 15px;
+}
+ 
+ .div-clear{
+     clear: both;
+ }
+ footer p{
+     text-align: center;
+     background-color: black;
+     color: white;
+     height: 20px;
+     padding:20px;
+     
+ }
+  .last{
+    height: 410px;
+    
+    
+  }
+ .last-part1{
+    background-image:url("shapes/sha.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin: 5% 20% 5% 22%;
+    position:left;
+    padding:4% 10% 5% 2%;
+  }
+  .last img{
+      width: 40%;
+       margin: 5% 20% 5% 27%;
+       background-attachment: fixed;
+}
+.last-part1 h1{
+    color: white;
+   
+ }
+ .check{
+     border-radius: 3px;
+     background-color: chocolate;
+     width:10%;
+     padding:1px 15px;
+    color: white; 
+    margin-left:95%;
+   margin-top: -12%;
+   text-align: center;
+ }
+ .last-part2{
+   margin-top:-4%;
+   margin-bottom:3%;
+    
+ }
+  
+ .last-part2 img{
+    height: 25px;
+    width: 25px;
+    padding-left: 10px;
+    
+ }
+ .last-part2 p,h2{
+     text-align: center;
+     
+ }
+ .icon-img{
+     margin-left:46%;
+    
+ }
+ 
